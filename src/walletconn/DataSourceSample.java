@@ -90,6 +90,7 @@ public class DataSourceSample {
           .executeQuery("select first_name, last_name from employees")) {
         System.out.println("FIRST_NAME" + "  " + "LAST_NAME");
         System.out.println("----------First Repo Commit-----------");
+        System.out.println("----------Developer Repo Commit-----------");
         while (resultSet.next())
           System.out.println(resultSet.getString(1) + " "
               + resultSet.getString(2) + " ");       
