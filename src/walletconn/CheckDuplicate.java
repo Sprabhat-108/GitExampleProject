@@ -26,7 +26,7 @@ public class CheckDuplicate {
 		{
 			l_customerID = customerID;
 			initialTimeOfRequest = System.currentTimeMillis();
-			System.out.println("initialTimeOfRequestWithNewConnection="+initialTimeOfRequest);
+			System.out.println("initialTimeOfRequestWithNewConnection1="+initialTimeOfRequest);
 		}
 		
 		
