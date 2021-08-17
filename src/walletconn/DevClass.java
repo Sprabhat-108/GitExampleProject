@@ -7,6 +7,7 @@ public class DevClass {
 		 System.out.println("----------Developer Repo Commit-----------");
 		 System.out.println("----------Second Request of Dev-----------");
 		System.out.println("----------Second Request of Dev1-----------");
+		System.out.println("----------Second Request of Dev2-----------");
 	}
 
 }
