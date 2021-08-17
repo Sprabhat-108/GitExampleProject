@@ -6,6 +6,7 @@ public class DevClass {
 		// TODO Auto-generated method stub
 		 System.out.println("----------Developer Repo Commit-----------");
 		 System.out.println("----------Second Request of Dev-----------");
+		System.out.println("----------Second Request of Dev1-----------");
 	}
 
 }
